@@ -1,2 +1,11 @@
 # AOVPS
-传说对决PS
+Coming Soon
+Only Serve Code
+No client code will be open source
+Only Arena of Valor not Honor of Kings
+# TODO
+PVP(0%)
+PVE(90%)
+Lobby(10%)
+Login(Finished)
+
